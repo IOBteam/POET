@@ -1,9 +1,9 @@
 {
 	"common":{
 		"filters":"Filters",
-		"timeRange":"Time Range",
-		"dateRange":"Date Range",
-		"priceRange":"Price Range",
+		"timeRange":"Zeitabschnitt",
+		"dateRange":"Datumsbereich",
+		"priceRange":"Preisspanne",
 		"banSelection":"Please select the date first!",
 		"ok":"OK",
 		"executed":"Executed",
@@ -18,7 +18,7 @@
 		"setting":"Settings",
 		"sendFeedback":"Send feedback",
 		"loginFailed":"Login failed!",
-		"submit":"Submit",
+		"submit":"Absenden",
 		"success":"Success",
 		"fail":"Fail"
 	},
@@ -40,13 +40,13 @@
 		"home":"Home",
 		"scheduleADemo":"Schedule a demo",
 		"poetExplorer":"P<span class='lightred--text'><i>o</i></span>ET Explorer",
-		"poetOrderHistory":"P<span class='lightred--text'><i>o</i></span>ET Order History",
-		"poetOrderReplay":"PoET Order Replay",
+		"poetOrderHistory":"P<span class='lightred--text'><i>o</i></span>ET Auftragsübersicht",
+		"poetOrderReplay":"PoET Order Wiederholung",
 		"PoetOrderHashes":"PoET Order Hashes",
 		"traderCreditScore":"Trader Credit Score (TCS)",
-		"traderMyOrderHistory":"My Order History",
-		"traderMyOrderHashes":"My Order Hashed",
-		"traderPortal":"Trader Portal",
+		"traderMyOrderHistory":"Meine Order Historie",
+		"traderMyOrderHashes":"Meine Order Hashed",
+		"traderPortal":"Händler-Portal",
 		"login":"Login",
 		"selectTheme":"Select Style"
 	},
@@ -58,41 +58,41 @@
 	},
 	"order":{
 		"orderReplay":{
-			"title":"P<span class='lightred--text'><i>o</i></span>ET Order Replay",
-			"TabName":"PoET Order Replay",
-			"searchPlaceHolder":"Search by instrument id / stock ticker symbol / serial number / blockchain address / txhash",
+			"title":"P<span class='lightred--text'><i>o</i></span>ET Order Wiederholung",
+			"TabName":"PoET Order Wiederholung",
+			"searchPlaceHolder":"Suche nach Börsentickersymbol / Seriennummer / Blockchain-Adresse / Token / txhash",
 			"binance":"Binance",
-			"lastPrice":"Last price",
-			"change":"24h Change",
-			"high":"24h High",
-			"low":"24h Low",
-			"volume":"24h Volume",
+			"lastPrice":"Letzter Preis",
+			"change":"24-Stunden-Veränderung",
+			"high":"24-Stunden Hoch",
+			"low":"24-Stunden Tief",
+			"volume":"24-Stunden Volumen",
 			"right":{
-				"search":"Search",
-				"change":"Change",
-				"volume":"Volume",
-				"pair":"Pair",
-				"price":"Price",
-				"tradeHistory":"Trade History"
+				"search":"Suche",
+				"change":"Veränderung",
+				"volume":"Volumen",
+				"pair":"Handels-paar",
+				"price":"Preis",
+				"tradeHistory":"Handelshistorie"
 			}
 		},
 		"orderHistory":{
 			"title":"P<span class='lightred--text'><i>o</i></span>ET Explorer - Enquiries & Trades: The Complete Order History",
-			"TabName":"PoET Order History",
+			"TabName":"PoET Order Historie",
 			"kraken":"Kraken",
-			"date":"Date",
-			"time":"Time",
-			"volume":"Volume",
-			"bid":"Bid",
-			"ask":"Ask",
-			"orderResult":"Order Result",
-			"notes":"Notes"
+			"date":"Datum",
+			"time":"Zeit",
+			"volume":"Volumen",
+			"bid":"Angebot",
+			"ask":"Bitten",
+			"orderResult":"Orderergebnis",
+			"notes":"Notizen"
 		},
 		"orderHashes":{
 			"title":"P<span class='lightred--text'><i>o</i></span>ET Order Hashes",
 			"TabName":"PoET Order Hashes",
 			"kraken":"Kraken",
-			"date":"Date",
+			"date":"Datumsbereich",
 			"ethereumTxHash":"Ethereum TxHash",
 			"universaTxHash":"Nervos TxHash"
 		}
@@ -100,85 +100,85 @@
 	"mytcs":{
 		"address":"Address",
 		"mytcs":{
-			"tabName":"My Trader Credit Score",
+			"tabName":"Mein Trader Credit Score",
 			"traderTitle":"Trader Credit Score (TCS)",
-			"message":"You have a poor credit",
+			"message":"Sie habein ein schlechtes Kredit",
 			"status":{
-				"bad":"Bad",
-				"poor":"Poor",
+				"bad":"Schlecht",
+				"poor":"Gering",
 				"fair":"Fair",
-				"good":"Good",
-				"excellent":"Excellent"
+				"good":"Gut",
+				"excellent":"Ausgezeichnet"
 			},
 			"chartsLabel":{
-			"disciplinaryActions":"Disciplinary<br><span style='font-weight:100;font-size:13px;'>Action</span>",
-			"sipPower":"SIP",
-			"creditAge":"Credit<br><span style='font-weight:100;font-size:13px;'>Age</span>",
+			"disciplinaryActions":"Disziplinarmaßnahmen</span>",
+			"sipPower":"SIP-Leistung",
+			"creditAge":"Kreditalter",
 			"ordersHashed":"Orders<br><span style='font-weight:100;font-size:13px;'>Hashed</span>",
-			"canceledOrders":"Canceled<br><span style='font-weight:100;font-size:13px;'>Orders</span>"
+			"canceledOrders":"Stornierte<br><span style='font-weight:100;font-size:13px;'>Orders</span>"
 			},
-			"updated":"Updated on February 20, 2019"
+			"updated":"Stand Februar 20, 2019"
 		},
 		"myOrderHistory":{
-			"tabName":"My Order History ",
-			"date":"Date",
-			"time":"Time (+UTC)",
-			"market":"Market",
+			"tabName":"Meine Order Historie  ",
+			"date":"Datum",
+			"time":"Zeit (+UTC)",
+			"market":"Markt",
 			"instrument":"Instrument",
-			"volume":"Volume",
-			"bid":"Bid",
-			"ask":"Ask",
-			"orderResult":"Order result",
-			"notes":"Notes"
+			"volume":"Volumen",
+			"bid":"Angebot",
+			"ask":"Bitten",
+			"orderResult":"Orderergebnis",
+			"notes":"Notizen"
 		},
 		"myOrderHashes":{
-			"tabName":"My Order Hashes"
+			"tabName":"Meine Order Hashes"
 		}
 	},
 	"tscInfo":{
 			"creditFactors":"Your Credit Factors",
-			"help":"Take a look at your credit factors to see how you could improve.",
-			"viewDatils":"view details",
+			"help":"Werfen Sie einen Blick auf Ihre Kreditfaktoren, um zu sehen, wie Sie sich verbessern können.",
+			"viewDatils":"Details anzeigen",
 			"myTSC":"Back to My Trader Credit Score (TCS) ",
 			"creditAge":{
-				"tabName":"Credit Age",
-				"mediumImpact":"Medium Impact",
-				"info":"Your credit history looks pretty new.",
-				"warn":"Regulators typically like to see that you have experience trading responsibly."
+				"tabName":"Kreditalter",
+				"mediumImpact":"Mittlere Wirkung",
+				"info":"Ihre Kreditgeschichte sieht ziemlich neu aus.",
+				"warn":"Die Regulierungsbehörden wollen sehen, dass sie Erfahrung im verantwortungsvollen Handeln haben."
 			},
 			"ordersHashed":{
-				"tabName":"Orders Hashed ",
-				"highImpact":"High Impact",
-				"info":"There’s a solid number of orders hashed on your report.",
-				"warn":"Regulators typically like to see that you have sent a variety of orders responsibly."
+				"tabName":"Orders Hashed",
+				"highImpact":"Starke Wirkung",
+				"info":"Es gibt eine solide Anzahl von Bestellungen, die in Ihrem Bericht enthalten sind.",
+				"warn":"Die Regulierungsbehörden möchten in der Regel sehen, dass Sie eine Vielzahl von Bestellungen verantwortungsbewusst ausgeführt haben."
 			},
 			"canceledOrders":{
-				"tabName":"Canceled Orders",
-				"highImpact":"High Impact",
-				"info":"Over half of your orders were canceled by you",
-				"warn":"Regulators typically like to see that you have intentionally canceled orders responsibly."
+				"tabName":"Stornierte Orders",
+				"highImpact":"Starke Wirkung",
+				"info":"Werfen Sie einen Blick auf Ihre Kreditfaktoren, um zu sehen, wie Sie sich verbessern können.",
+				"warn":"Die Regulierungsbehörden möchten in der Regel sehen, dass Sie Bestellungen absichtlich verantwortungsbewusst storniert haben."
 			},
 			"disciplinaryActions":{
-				"tabName":"Disciplinary Actions",
-				"highImpact":"Very high Impact",
-				"info":"Be careful!",
-				"warn":"Disciplinary actions are good to avoid - they can stay on your report for 7-10 years."
+				"tabName":"Disziplinarmaßnahmen",
+				"highImpact":"Sehr starke Wirkung",
+				"info":"Seid vorsichtig!",
+				"warn":"Disziplinarmaßnahmen sind gut zu vermeiden - sie können 7-10 Jahre lang auf Ihrem Bericht bleiben."
 			},
 			"sipReputation":{
-				"tabName":"SIP reputation",
-				"lowImpact":"Low Impact",
-				"info":"Nice that you’ve earned Power on SIP!",
-				"warn":"Your participation has value, and you’re rated by other traders. Your SIP Power has real value!"
+				"tabName":"SIP-Reputation",
+				"lowImpact":"Geringe Wirkung",
+				"info":"Schön, dass Sie sich Power on SIP verdient haben!",
+				"warn":"Ihre Teilnahme hat einen Wert, und Sie werden von anderen Händlern bewertet. Ihre SIP Power hat einen echten Wert!"
 			}
 	},
 	"traderLogin":{
-		"title":"Trader log in",
-		"register":"Don’t have a PoET Address?",
-		"emailPlaceHolder":"PoET or email address",
+		"title":"Händler-Login",
+		"register":"Sie haben keine PoET-Adresse?",
+		"emailPlaceHolder":"PoET oder E-Mail-Adresse",
 		"rememberAddress":"Remember my email address",
-		"password":"Password",
-		"submit":"Submit",
-		"forgotPassword":"Forgot password?"
+		"password":"Passwort",
+		"submit":"Absenden",
+		"forgotPassword":"Passwort vergessen?"
 	},
 	"regulatorLogin":{
 		"title":"Regulator log In"
@@ -188,7 +188,7 @@
  	},
 	"regulatorPotral":{
 		"WatchLists":{
-			"tabName":"Watch Lists"
+			"tabName":"Watchlisten"
 		},
 		"AddressAudit":{
 			"tabName":"PoET Address Audit",
@@ -197,24 +197,24 @@
 			"universaTxHash":"Nervos TxHash",
 			"hyperchainTxHash":"HyperchainTxHash",
 			"violationRecords":"Violation records",
-			"date":"Date",
-			"violation":"Violation",
-			"disciplinaryAction":"Disciplinary Action",
-			"officialWarning":"Official Warning",
-			"Fined":"Fined",
-			"possibleConcertedAccounts":"Possible Concerted Accounts",
+			"date":"Datum",
+			"violation":"Verletzung",
+			"disciplinaryAction":"Disziplinarmaßnahmen",
+			"officialWarning":"Offizielle Warnung",
+			"Fined":"Bestraft",
+			"possibleConcertedAccounts":"Mögliche konzertierte Konten",
 			"Addresses":"PoET Addresses",
 			"tcs":"TCS"
 		}
 	},
 	"foot":{
-		   "title":"Powered by P<span class='lightred--text'><i>o</i></span>ET <br>on <span class='Slogan'><a class='menucolor' href='https://microscope.cryptape.com/#/' target='_blank'>Nervos</a> </span>and Ethereum Blockchains",
-		   "aboutUs":"About us",
-		   "terms":"Terms",
-		   "privacy":"Privacy",
-		   "contact":"Contact",
+		   "title":"Angetrieben von P<span class='lightred--text'><i>o</i></span>ET <br>auf <span class='Slogan'><a class='menucolor' href='https://microscope.cryptape.com/#/' target='_blank'>Nervos</a> </span>und Ethereum Blockchains",
+		   "aboutUs":"Über uns",
+		   "terms":"Bedinungen",
+		   "privacy":"Datenschutzerklärung",
+		   "contact":"Kontakt (Impressum):",
 		   "api":"API",
-		   "download":"Download",
+		   "download":"API Download",
 		   "IOBToken":"IOB Token",
 		   "aLLRightsReserved":"ALL rights reserved"
  	},
@@ -223,13 +223,13 @@
 		"title":"worldwide financial market manipulative orders detected",
 		"table":{
 			"instrument":"Instrument",
-			"date":"Date",
-			"time":"Time(UTC)",
+			"date":"Datum",
+			"time":"Zeit (+UTC)",
 			"volume":"Volume",
-			"bid":"Bid",
-			"ask":"Ask",
-			"orderResult":"Order Result",
-			"notes":"Notes"
+			"bid":"Angebot",
+			"ask":"Bitten",
+			"orderResult":"Orderergebnis",
+			"notes":"Notizen"
 		}
 	},
 	"userRequest":{
