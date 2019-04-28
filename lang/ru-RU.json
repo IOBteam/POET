@@ -41,48 +41,48 @@
 		"scheduleADemo":"Расписание демо",
 		"poetExplorer":"P<span class='lightred--text'><i>o</i></span>ET Explorer",
 		"poetOrderHistory":"P<span class='lightred--text'><i>o</i></span>ET История заказов",
-		"poetOrderReplay":"Повторить заказ PoET",
-		"PoetOrderHashes":"Заказы Хешей PoET",
+		"poetOrderReplay":"Повтор заказа PoET",
+		"PoetOrderHashes":"Заказы Хэшей PoET",
 		"traderCreditScore":"Кредитный рейтинг трейдера (КРТ)",
 		"traderMyOrderHistory":"История моего заказа",
 		"traderMyOrderHashes":"Хэши моих заказов",
-		"traderPortal":"Trader Portal",
-		"login":"Login",
-		"selectTheme":"Select Style"
+		"traderPortal":"Портал трейдеров",
+		"login":"Вход",
+		"selectTheme":"Выбрать стиль"
 	},
 	"regulatorHeader":{
-		"home":"Home",
-		"RegulatorLogin":"Regulator Portal Login",
-		"watchlist":"Watchlists",
-		"PoETAddressAudit":"PoET Address Audit"
+		"home":"Главная",
+		"RegulatorLogin":"Вход на портал регулятора",
+		"watchlist":"Список наблюдения",
+		"PoETAddressAudit":"Аудит адреса PoET"
 	},
 	"order":{
 		"orderReplay":{
-			"title":"P<span class='lightred--text'><i>o</i></span>ET Order Replay",
-			"TabName":"PoET Order Replay",
-			"searchPlaceHolder":"Search by instrument id / stock ticker symbol / serial number / blockchain address / txhash",
+			"title":"P<span class='lightred--text'><i>o</i></span>ET История заказов",
+			"TabName":"Повтор заказа PoET",
+			"searchPlaceHolder":"Поиск по идентификатору инструмента / биржевому символу / серийному номеру / адресу блокчейна / txhash",
 			"binance":"Binance",
-			"lastPrice":"Last price",
-			"change":"24h Change",
-			"high":"24h High",
-			"low":"24h Low",
-			"volume":"24h Volume",
+			"lastPrice":"Последняя цена",
+			"change":"Смена за 24ч",
+			"high":"Макс за 24ч",
+			"low":"Мин за 24ч",
+			"volume":"Объем торгов",
 			"right":{
-				"search":"Search",
-				"change":"Change",
-				"volume":"Volume",
-				"pair":"Pair",
-				"price":"Price",
-				"tradeHistory":"Trade History"
+				"search":"Поиск",
+				"change":"Изменение",
+				"volume":"Объем торгов",
+				"pair":"Пары",
+				"price":"Цена",
+				"tradeHistory":"История сделок"
 			}
 		},
 		"orderHistory":{
 			"title":"P<span class='lightred--text'><i>o</i></span>ET Explorer - Enquiries & Trades: The Complete Order History",
-			"TabName":"PoET Order History",
+			"TabName":"История заказа PoET",
 			"kraken":"Kraken",
 			"date":"Date",
-			"time":"Time",
-			"volume":"Volume",
+			"time":"Время",
+			"volume":"Объем",
 			"bid":"Bid",
 			"ask":"Ask",
 			"orderResult":"Order Result",
@@ -92,7 +92,7 @@
 			"title":"P<span class='lightred--text'><i>o</i></span>ET Order Hashes",
 			"TabName":"PoET Order Hashes",
 			"kraken":"Kraken",
-			"date":"Date",
+			"date":"Дата",
 			"ethereumTxHash":"Ethereum TxHash",
 			"universaTxHash":"Nervos TxHash"
 		}
