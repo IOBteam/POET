@@ -98,48 +98,48 @@
 		}
 	},
 	"mytcs":{
-		"address":"Address",
+		"address":"Адрес",
 		"mytcs":{
-			"tabName":"My Trader Credit Score",
-			"traderTitle":"Trader Credit Score (TCS)",
-			"message":"You have a poor credit",
+			"tabName":"Мой кредитный рейтинг трейдера",
+			"traderTitle":"Кредитный рейтинг трейдера (КРТ)",
+			"message":"У вас плохой кредит",
 			"status":{
-				"bad":"Bad",
-				"poor":"Poor",
-				"fair":"Fair",
-				"good":"Good",
-				"excellent":"Excellent"
+				"bad":"Плохо",
+				"poor":"Слабо",
+				"fair":"Удовлетворительно",
+				"good":"Хорошо",
+				"excellent":"Отлично"
 			},
 			"chartsLabel":{
-			"disciplinaryActions":"Disciplinary<br><span style='font-weight:100;font-size:13px;'>Action</span>",
+			"disciplinaryActions":"Дисциплинарная<br><span style='font-weight:100;font-size:13px;'>мера</span>",
 			"sipPower":"SIP",
-			"creditAge":"Credit<br><span style='font-weight:100;font-size:13px;'>Age</span>",
-			"ordersHashed":"Orders<br><span style='font-weight:100;font-size:13px;'>Hashed</span>",
-			"canceledOrders":"Canceled<br><span style='font-weight:100;font-size:13px;'>Orders</span>"
+			"creditAge":"Кредит<br><span style='font-weight:100;font-size:13px;'>возраст</span>",
+			"ordersHashed":"Заказов<br><span style='font-weight:100;font-size:13px;'>хэшировано</span>",
+			"canceledOrders":"Отмененные<br><span style='font-weight:100;font-size:13px;'>заказы</span>"
 			},
-			"updated":"Updated on February 20, 2019"
+			"updated":"Обновлено 20 февраля 2019 года"
 		},
 		"myOrderHistory":{
-			"tabName":"My Order History ",
-			"date":"Date",
-			"time":"Time (+UTC)",
-			"market":"Market",
-			"instrument":"Instrument",
-			"volume":"Volume",
-			"bid":"Bid",
-			"ask":"Ask",
-			"orderResult":"Order result",
-			"notes":"Notes"
+			"tabName":"Моя история заказов ",
+			"date":"Дата",
+			"time":"Время (+UTC)",
+			"market":"Рынок",
+			"instrument":"Инструмент",
+			"volume":"Объем",
+			"bid":"Ставка",
+			"ask":"Спрос",
+			"orderResult":"Результат заказа",
+			"notes":"Заметки"
 		},
 		"myOrderHashes":{
-			"tabName":"My Order Hashes"
+			"tabName":"Хэши моих заказов"
 		}
 	},
 	"tscInfo":{
-			"creditFactors":"Your Credit Factors",
-			"help":"Take a look at your credit factors to see how you could improve.",
-			"viewDatils":"view details",
-			"myTSC":"Back to My Trader Credit Score (TCS) ",
+			"creditFactors":"Ваши кредитные факторы",
+			"help":"Посмотрите на свои кредитные факторы, чтобы увидеть, как Вы могли бы улучшиться.",
+			"viewDatils":"просмотреть детали",
+			"myTSC":"Вернуться к моему кредитному рейтингу трейдера (КРТ)",
 			"creditAge":{
 				"tabName":"Credit Age",
 				"mediumImpact":"Medium Impact",
