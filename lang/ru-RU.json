@@ -77,20 +77,20 @@
 			}
 		},
 		"orderHistory":{
-			"title":"P<span class='lightred--text'><i>o</i></span>ET Explorer - Enquiries & Trades: The Complete Order History",
+			"title":"P<span class='lightred--text'><i>o</i></span>ET Explorer - Запросы и сделки: Полная история заказов",
 			"TabName":"История заказа PoET",
 			"kraken":"Kraken",
-			"date":"Date",
+			"date":"Дата",
 			"time":"Время",
 			"volume":"Объем",
-			"bid":"Bid",
-			"ask":"Ask",
-			"orderResult":"Order Result",
-			"notes":"Notes"
+			"bid":"Спрос",
+			"ask":"Предложение",
+			"orderResult":"Результат заказа",
+			"notes":"Заметки"
 		},
 		"orderHashes":{
-			"title":"P<span class='lightred--text'><i>o</i></span>ET Order Hashes",
-			"TabName":"PoET Order Hashes",
+			"title":"P<span class='lightred--text'><i>o</i></span>ET Хэши заказа",
+			"TabName":"Хэши заказа PoET",
 			"kraken":"Kraken",
 			"date":"Дата",
 			"ethereumTxHash":"Ethereum TxHash",
