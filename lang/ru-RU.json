@@ -111,10 +111,10 @@
 				"excellent":"Отлично"
 			},
 			"chartsLabel":{
-			"disciplinaryActions":"Дисциплинарная<br><span style='font-weight:100;font-size:13px;'>мера</span>",
+			"disciplinaryActions":"Дисциплинарные<br><span style='font-weight:100;font-size:13px;'>меры</span>",
 			"sipPower":"SIP",
 			"creditAge":"Кредит<br><span style='font-weight:100;font-size:13px;'>возраст</span>",
-			"ordersHashed":"Заказов<br><span style='font-weight:100;font-size:13px;'>хэшировано</span>",
+			"ordersHashed":"Хэшированые<br><span style='font-weight:100;font-size:13px;'>заказы</span>",
 			"canceledOrders":"Отмененные<br><span style='font-weight:100;font-size:13px;'>заказы</span>"
 			},
 			"updated":"Обновлено 20 февраля 2019 года"
@@ -141,28 +141,28 @@
 			"viewDatils":"просмотреть детали",
 			"myTSC":"Вернуться к моему кредитному рейтингу трейдера (КРТ)",
 			"creditAge":{
-				"tabName":"Credit Age",
-				"mediumImpact":"Medium Impact",
-				"info":"Your credit history looks pretty new.",
-				"warn":"Regulators typically like to see that you have experience trading responsibly."
+				"tabName":"Кредитный возраст",
+				"mediumImpact":"Среднее воздействие",
+				"info":"Ваша кредитная история выглядит довольно новой.",
+				"warn":"Регуляторным органам обычно нравится видеть, что у вас есть опыт торговли ответственно."
 			},
 			"ordersHashed":{
-				"tabName":"Orders Hashed ",
-				"highImpact":"High Impact",
-				"info":"There’s a solid number of orders hashed on your report.",
-				"warn":"Regulators typically like to see that you have sent a variety of orders responsibly."
+				"tabName":"Хэшированые заказы",
+				"highImpact":"Сильное воздействие",
+				"info":"В вашем отчете много хэшированых заказов ",
+				"warn":"Регуляторным органам, как правило, нравится видеть, что вы ответственно отправили большое количество заказов."
 			},
 			"canceledOrders":{
-				"tabName":"Canceled Orders",
-				"highImpact":"High Impact",
-				"info":"Over half of your orders were canceled by you",
-				"warn":"Regulators typically like to see that you have intentionally canceled orders responsibly."
+				"tabName":"Отмененные заказы",
+				"highImpact":"Сильное воздействие",
+				"info":"Более половины ваших заказов были отменены вами",
+				"warn":"Регуляторным органам обычно нравится видеть, что вы намеренно отменили заказы ответственно."
 			},
 			"disciplinaryActions":{
-				"tabName":"Disciplinary Actions",
-				"highImpact":"Very high Impact",
-				"info":"Be careful!",
-				"warn":"Disciplinary actions are good to avoid - they can stay on your report for 7-10 years."
+				"tabName":"Дисциплинарные меры",
+				"highImpact":"Очень сильное воздействие",
+				"info":"Будьте осторожны",
+				"warn":"Дисциплинарные меры следует избегать - они могут оставаться в вашем отчете в течение 7-10 лет."
 			},
 			"sipReputation":{
 				"tabName":"SIP reputation",
