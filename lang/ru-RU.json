@@ -165,42 +165,42 @@
 				"warn":"Дисциплинарные меры следует избегать - они могут оставаться в вашем отчете в течение 7-10 лет."
 			},
 			"sipReputation":{
-				"tabName":"SIP reputation",
-				"lowImpact":"Low Impact",
-				"info":"Nice that you’ve earned Power on SIP!",
-				"warn":"Your participation has value, and you’re rated by other traders. Your SIP Power has real value!"
+				"tabName":"SIP Репутация",
+				"lowImpact":"Малое воздействие",
+				"info":"Хорошо, что вы заработали Power на SIP!",
+				"warn":"Ваше участие имеет ценность, и вас оценивают другие трейдеры. Ваш SIP Power имеет влияние!"
 			}
 	},
 	"traderLogin":{
-		"title":"Trader log in",
-		"register":"Don’t have a PoET Address?",
-		"emailPlaceHolder":"PoET or email address",
-		"rememberAddress":"Remember my email address",
-		"password":"Password",
-		"submit":"Submit",
-		"forgotPassword":"Forgot password?"
+		"title":"Вход на портал трейдера",
+		"register":"У вас нет PoET-адреса?",
+		"emailPlaceHolder":"PoET или адрес электронной почты",
+		"rememberAddress":"Запомнить мой адрес электронной почты",
+		"password":"Пароль",
+		"submit":"Отправить",
+		"forgotPassword":"Забыли пароль?"
 	},
 	"regulatorLogin":{
-		"title":"Regulator log In"
+		"title":"Вход на портал регулятора"
 	},
 	"poetExplorerLogin":{
-  		"title":"My PoET log in"
+  		"title":"Мой PoET вход"
  	},
 	"regulatorPotral":{
 		"WatchLists":{
-			"tabName":"Watch Lists"
+			"tabName":"Список наблюдения"
 		},
 		"AddressAudit":{
-			"tabName":"PoET Address Audit",
-			"ordersendinghashes":"Order Sending Hashes",
+			"tabName":"Аудит PoET-адресов",
+			"ordersendinghashes":"Порядок отправки хэшей",
 			"ethereumTxHash":"Ethereum TxHash",
 			"universaTxHash":"Nervos TxHash",
 			"hyperchainTxHash":"HyperchainTxHash",
-			"violationRecords":"Violation records",
-			"date":"Date",
-			"violation":"Violation",
-			"disciplinaryAction":"Disciplinary Action",
-			"officialWarning":"Official Warning",
+			"violationRecords":"Записи нарушений",
+			"date":"Дата",
+			"violation":"Нарушение",
+			"disciplinaryAction":"Дисциплинарные меры",
+			"officialWarning":"Официальное предупреждение",
 			"Fined":"Fined",
 			"possibleConcertedAccounts":"Possible Concerted Accounts",
 			"Addresses":"PoET Addresses",
