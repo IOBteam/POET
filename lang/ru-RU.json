@@ -233,44 +233,44 @@
 		}
 	},
 	"userRequest":{
-		"submitRequest":"Submit a request",
-		"issue":"Issue",
-		"name":"Name",
-		"email":"E-mail",
-		"nameHint":"Name is required",
-		"emailHint":"E-mail is required",
-		"subject":"Subject",
-		"subjectHint":"Briefly describe your problem in the Subject field.",
-		"description":"Description",
-		"descriptionHint":"Please enter the details of your request.",
+		"submitRequest":"Отправить запрос",
+		"issue":"Вопрос",
+		"name":"Имя",
+		"email":"Электронная почта",
+		"nameHint":"Требуется имя",
+		"emailHint":"Требуется электронная почта",
+		"subject":"Тема",
+		"subjectHint":"Кратко опишите вашу проблему в поле Тема",
+		"description":"Описание",
+		"descriptionHint":"Пожалуйста, введите детали вашего запроса.",
 		"issueSelect":{
-			"account":"Account",
-			"password":"Password",
-			"googleAuth":"Google Auth(2FA)",
-			"wallet":"Wallet",
-			"other":"Other"
+			"account":"Счет",
+			"password":"Пароль",
+			"googleAuth":"Google Authenticator(2FA)",
+			"wallet":"Кошелек",
+			"other":"Другое"
 		},
 		"rules":{
 			"issue":{
-				"required":"Please select a issue"
+				"required":"Пожалуйста, выберите проблему"
 			},
 			"name":{
-				"required":"Name is required"
+				"required":"Требуется имя"
 			},
 			"regEmail":{
-				"required":"E-mail is required",
-				"valid":"E-mail must be valid"
+				"required":"Требуется электронная почта",
+				"valid":"Адрес электронной почты должен быть действительным"
 			},
 			"subject":{
-				"required":"Subject is required",
-				"valid":"Character length exceeds limit"
+				"required":"Требуется ввести тему",
+				"valid":"Количество символов превышает лимит"
 			},
 			"description":{
-				"required":"Description is required",
-				"valid":"Character length exceeds limit"
+				"required":"Требуется ввести описание",
+				"valid":"Количество символов превышает лимит"
 			}
 		},
-		"submitSuccessTitle":"Submitted successfully",
-		"submitSuccessDesc":"Your request has been submitted successfully."
+		"submitSuccessTitle":"Отправлено успешно",
+		"submitSuccessDesc":"Ваш запрос был успешно отправлен."
 	}
 }
