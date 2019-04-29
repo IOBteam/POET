@@ -42,7 +42,7 @@
 		"poetExplorer":"P<span class='lightred--text'><i>o</i></span>ET Explorer",
 		"poetOrderHistory":"P<span class='lightred--text'><i>o</i></span>ET История заказов",
 		"poetOrderReplay":"Повтор заказа PoET",
-		"PoetOrderHashes":"Заказы Хэшей PoET",
+		"PoetOrderHashes":"Заказы хэшей PoET",
 		"traderCreditScore":"Кредитный рейтинг трейдера (КРТ)",
 		"traderMyOrderHistory":"История моего заказа",
 		"traderMyOrderHashes":"Хэши моих заказов",
@@ -202,34 +202,34 @@
 			"disciplinaryAction":"Дисциплинарные меры",
 			"officialWarning":"Официальное предупреждение",
 			"Fined":"Оштрафовано",
-			"possibleConcertedAccounts":"Possible Concerted Accounts",
-			"Addresses":"PoET Addresses",
-			"tcs":"TCS"
+			"possibleConcertedAccounts":"Возможные сговорные аккаунты",
+			"Addresses":"PoET Адреса",
+			"tcs":"КРТ"
 		}
 	},
 	"foot":{
-		   "title":"Powered by P<span class='lightred--text'><i>o</i></span>ET <br>on <span class='Slogan'><a class='menucolor' href='https://microscope.cryptape.com/#/' target='_blank'>Nervos</a> </span>and Ethereum Blockchains",
-		   "aboutUs":"About us",
-		   "terms":"Terms",
-		   "privacy":"Privacy",
-		   "contact":"Contact",
+		   "title":"Работает на P<span class='lightred--text'><i>o</i></span>ET <br>on <span class='Slogan'><a class='menucolor' href='https://microscope.cryptape.com/#/' target='_blank'>Nervos</a> </span>and Ethereum блокчейнами",
+		   "aboutUs":"О нас",
+		   "terms":"Условия",
+		   "privacy":"Конфиденциальность",
+		   "contact":"Контакт",
 		   "api":"API",
-		   "download":"Download",
-		   "IOBToken":"IOB Token",
-		   "aLLRightsReserved":"ALL rights reserved"
+		   "download":"Скачать",
+		   "IOBToken":"IOB Токен",
+		   "aLLRightsReserved":"Все права защищены"
  	},
 	"home":{
-		"text":" Proof <span class='lightred--text'>of</span> Enquires & Trades, the multichain, multimarket compliance trading protocol that reveals both reported trades and canceled orders.",
-		"title":"worldwide financial market manipulative orders detected",
+		"text":" Доказательство <span class='lightred--text'/span> запросов и сделок, tМногоцепной, мультирыночный протокол соответствия правил торговли, который показывает зарегистрированные сделки и отмененные запросы.",
+		"title":"обнаружены манипулятивные заказы на мировом финансовом рынке",
 		"table":{
-			"instrument":"Instrument",
-			"date":"Date",
-			"time":"Time(UTC)",
-			"volume":"Volume",
-			"bid":"Bid",
-			"ask":"Ask",
-			"orderResult":"Order Result",
-			"notes":"Notes"
+			"instrument":"Инструмент",
+			"date":"Дата",
+			"time":"Время(UTC)",
+			"volume":"Объем",
+			"bid":"Ставка",
+			"ask":"Спрос",
+			"orderResult":"Результат заказа",
+			"notes":"Примечание"
 		}
 	},
 	"userRequest":{
